@@ -15,6 +15,7 @@ and open the template in the editor.
             echo '<h1>WorkingWithGIT</h1>';
             $git = new git();
             echo '<p>' . $git->sayHello() . '</p>';
+            echo '<p>' . $git->sayBye() . '</p>';
         ?>
     </body>
 </html>
