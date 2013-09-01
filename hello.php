@@ -3,7 +3,7 @@
 class git {
    
     public function sayHello () {
-        return "Hello dear World!";
+        return "Hallo liebe Welt!";
     }
     
     public function sayBye () {
