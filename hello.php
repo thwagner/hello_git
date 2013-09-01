@@ -13,6 +13,11 @@ class git {
     public function gitAsk() {
         return "How are you doing?";
     }
+    
+    public function gitCalc($a, $b) {
+        return $a + $b;
+    }
 }
 
 ?>
+

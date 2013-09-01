@@ -16,6 +16,7 @@ and open the template in the editor.
             $git = new git();
             echo '<p>' . $git->sayHello() . '</p>';
             echo '<p>' . $git->sayBye() . '</p>';
+            echo '<p>' . $git->gitCalc(22, 7) . '</p>';
         ?>
     </body>
 </html>
