@@ -9,6 +9,10 @@ class git {
     public function sayBye () {
         return "Bye! Hope to see you soon.";
     }
+    
+    public function gitAsk() {
+        return "How are you doing?";
+    }
 }
 
 ?>
